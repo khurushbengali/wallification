@@ -14,7 +14,7 @@ Wallification Wallpaper Creator (WWC) is an application which will allow the use
 
 
 
-## How do I install Komorebi?
+## How do I install Wallification?
 
 ### Manual Installing
 
