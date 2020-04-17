@@ -1,13 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/khurushbengali/wallification/master/screenshots/wallification-icon.png" width="130"></p>
 <h2 align="center">Wallification - Live Wallpapers for Linux</h2>
-<p align="center">(n) sunlight filtering through trees.</p>
-
-
-
-<p align="center">
-	<a href="http://www.kernel.org"><img alt="Platform (GNU/Linux)" src="https://img.shields.io/badge/platform-GNU/Linux-blue.svg"></a>
-	<a href="https://travis-ci.org/khurushbengali/wallification"><img alt="Build Status" src="https://travis-ci.org/phw/peek.svg?branch=master"></a>
-</p>
 
 
 
