@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Wallification
+Comment=An Desktop Wallpapers Management System
+Keywords=wallpaper;settings; preferences;
+Icon=/System/Resources/Wallification/wallification.svg
+Exec=/System/Applications/wallification
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;System;
+X-GNOME-Autostart-enabled=true

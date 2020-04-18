@@ -38,7 +38,7 @@ namespace Wallification {
         print("Welcome to Wallification\n");
 
         if(args[1] == "--version" || args[1] == "version") {
-            print("Version: 2.1 - Summit\nCreated by: Abraham Masri @cheesecakeufo\n\n");
+            print("Version: 2.1\n\n");
             return;
         }
 

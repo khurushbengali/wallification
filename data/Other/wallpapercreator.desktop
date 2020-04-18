@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Wallpaper Creator
+Comment=Create Wallpapers for Wallification
+Keywords=wallpaper; settings; preferences;
+Icon=/System/Resources/Wallification/wallpaper_creator.svg
+Exec=/System/Applications/wallification-wallpaper-creator
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;System;
+X-GNOME-Autostart-enabled=false
