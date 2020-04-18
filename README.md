@@ -21,7 +21,7 @@ Wallification Wallpaper Creator (WWC) is an application which will allow the use
 Run the following:
 ```
 sudo add-apt-repository ppa:vala-team -y
-sudo apt install cmake valac libgtk-3-dev libgee-0.8-dev libclutter-gtk-1.0-dev libclutter-1.0-dev libwebkit2gtk-4.0-dev libclutter-gst-3.0-dev
+sudo apt install cmake valac libgtk-3-dev libgee-0.8-dev libclutter-gtk-1.0-dev libclutter-1.0-dev libwebkit2gtk-4.0-dev libclutter-gst-3.0-dev gstreamer1.0-libav
 git clone https://github.com/khurushbengali/wallification.git
 cd wallification
 mkdir build && cd build
